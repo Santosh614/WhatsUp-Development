@@ -6,6 +6,8 @@ Author:N.Santosh Kumar
 
 2. Chat Screen Code
 
-3. Last Screen Code
+3. Last Seen Code
 
 4. Attachements(Image, Audio, Video) code
+
+5. Hidden Last Seen Code
